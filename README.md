@@ -2,8 +2,8 @@
 
 Kocaeli Universitesi Bilgisayar Mühendisliği (BLM442) kodlu Büyük Veri Analizine Giriş dersinde paylaşılan ders notları, tamamlanan ödevler ve projeleri bu repoda bulabilirsiniz.
 
-[Ders Notları]()
-[Kesif Aktiviteleri]()
+[Ders Notları](https://github.com/snnclsr/buyuk_veri_analizi#ders-notlar%C4%B1)
+[Kesif Aktiviteleri](https://github.com/snnclsr/buyuk_veri_analizi#kesif-aktiviteleri)
 [Geri Bildirim Aktiviteleri]()
 
 #### Ders Notları
@@ -20,5 +20,9 @@ Kocaeli Universitesi Bilgisayar Mühendisliği (BLM442) kodlu Büyük Veri Anali
 
 **Kesif Aktivitesi 1:** Excel kullanarak, kendi seçtiğimiz bir veri kümesi üzerinde, kendi hazırladığımız sorular ile veri hakkında bilgiler edinme, grafikler oluşturma.
 
-**Kesif Aktivitesi 2:** SQL kullanarak, kendi seçtiğimiz bir veri kümesi üzerinde, kendi hazırladığımız sorular ile veri hakkında bilgiler edinme, sorgular yazma. Jupyter notebook içinden veritabanı üzerinde işlemler yapma.
+[**Kesif Aktivitesi 2:**](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/kesif_aktivitesi_2) SQL kullanarak, kendi seçtiğimiz bir veri kümesi üzerinde, kendi hazırladığımız sorular ile veri hakkında bilgiler edinme, sorgular yazma. Jupyter notebook içinden veritabanı üzerinde işlemler yapma.
+
+#### Geri Bildirim Aktiviteleri
+
+**Geri Bildirim Aktivitesi 1:** Açıklama eklenecek.
 
