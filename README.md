@@ -4,7 +4,7 @@ Kocaeli Universitesi Bilgisayar Mühendisliği (BLM442) kodlu Büyük Veri Anali
 
 [Ders Notları](https://github.com/snnclsr/buyuk_veri_analizi#ders-notlar%C4%B1)
 [Kesif Aktiviteleri](https://github.com/snnclsr/buyuk_veri_analizi#kesif-aktiviteleri)
-[Geri Bildirim Aktiviteleri]()
+[Geri Bildirim Aktiviteleri](https://github.com/snnclsr/buyuk_veri_analizi#geri-bildirim-aktiviteleri)
 
 #### Ders Notları
 
