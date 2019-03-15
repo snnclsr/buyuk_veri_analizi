@@ -5,7 +5,7 @@ Kocaeli Universitesi Bilgisayar Mühendisliği (BLM442) kodlu Büyük Veri Anali
 [Ders Notları](https://github.com/snnclsr/buyuk_veri_analizi#ders-notlar%C4%B1)
 [Kesif Aktiviteleri](https://github.com/snnclsr/buyuk_veri_analizi#kesif-aktiviteleri)
 [Geri Bildirim Aktiviteleri](https://github.com/snnclsr/buyuk_veri_analizi#geri-bildirim-aktiviteleri)
-
+[Sunumlar](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/Ders_Sunumlari)
 #### Ders Notları
 
 [Hafta 1](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/week1): Dersin işleniş biçimi, piazza sisteminin tanıtılması, dersin çıktısı vs. tanıtıldı. Notlandırma, ödevler ve ders hakkında gerekli bilgiler anlatıldı.
@@ -18,9 +18,9 @@ Kocaeli Universitesi Bilgisayar Mühendisliği (BLM442) kodlu Büyük Veri Anali
 
 #### Kesif Aktiviteleri
 
-**Kesif Aktivitesi 1:** Excel kullanarak, kendi seçtiğimiz bir veri kümesi üzerinde, kendi hazırladığımız sorular ile veri hakkında bilgiler edinme, grafikler oluşturma.
+[Kesif Aktivitesi 1:](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/kesif_aktivitesi_1) Excel kullanarak, kendi seçtiğimiz bir veri kümesi üzerinde, kendi hazırladığımız sorular ile veri hakkında bilgiler edinme, grafikler oluşturma.
 
-[**Kesif Aktivitesi 2:**](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/kesif_aktivitesi_2) SQL kullanarak, kendi seçtiğimiz bir veri kümesi üzerinde, kendi hazırladığımız sorular ile veri hakkında bilgiler edinme, sorgular yazma. Jupyter notebook içinden veritabanı üzerinde işlemler yapma.
+[Kesif Aktivitesi 2:](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/kesif_aktivitesi_2) SQL kullanarak, kendi seçtiğimiz bir veri kümesi üzerinde, kendi hazırladığımız sorular ile veri hakkında bilgiler edinme, sorgular yazma. Jupyter notebook içinden veritabanı üzerinde işlemler yapma.
 
 #### Geri Bildirim Aktiviteleri
 
