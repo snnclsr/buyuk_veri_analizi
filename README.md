@@ -22,6 +22,12 @@ Kocaeli Universitesi Bilgisayar Mühendisliği (BLM442) kodlu Büyük Veri Anali
 
 [Kesif Aktivitesi 2:](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/kesif_aktivitesi_2) SQL kullanarak, kendi seçtiğimiz bir veri kümesi üzerinde, kendi hazırladığımız sorular ile veri hakkında bilgiler edinme, sorgular yazma. Jupyter notebook içinden veritabanı üzerinde işlemler yapma.
 
+[Kesif Aktivitesi 3:] Python diliyle verilen seçenekler arasından 2 projeyi seçip gerçekleştirme.
+
+- [Proje 1:](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/kesif_aktivitesi_3/project_1) [PDF](https://github.com/snnclsr/buyuk_veri_analizi/blob/master/kesif_aktivitesi_3/project_1/project07.pdf) , [Notebook](https://github.com/snnclsr/buyuk_veri_analizi/blob/master/kesif_aktivitesi_3/project_1/project1.ipynb) -- Bu projenin amacı verilen txt dosyasını okuyup, kelimeleri ilk ve son harfi hariç karıştırmaya çalışmak. Uygulama ile ilgili dikkat edilmesi gereken birkaç uç durum vardı: ilk veya son harfin noktalama işareti olması durumunda, noktalama işaretleri ve sondan önceki veya baştan sonraki harf aynı yerinde kalmalı.
+
+- [Proje 2:](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/kesif_aktivitesi_3/project_2) [PDF](https://github.com/snnclsr/buyuk_veri_analizi/blob/master/kesif_aktivitesi_3/project_2/project06.pdf) , [Notebook](https://github.com/snnclsr/buyuk_veri_analizi/blob/master/kesif_aktivitesi_3/project_2/project2.ipynb) -- Bu projenin amacı verilen txt dosyaları üzerinde, istenilen aramayı gerçekleştirme. Arama sonucunda, aranılan metin hangi dosyada ise o dosya isminin altında sonucun bulunduğu satır gösterildi.
+
 #### Geri Bildirim Aktiviteleri
 
 **Geri Bildirim Aktivitesi 1:** Açıklama eklenecek.
