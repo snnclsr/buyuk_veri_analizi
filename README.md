@@ -16,6 +16,8 @@ Kocaeli Universitesi Bilgisayar Mühendisliği (BLM442) kodlu Büyük Veri Anali
 
 [Hafta 4](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/week4): Python programlama diline giriş yapıldı. Veri tipleri, koşullu ifadeler, döngüler, fonksiyonlar, modüller, veri yapıları, dosya işlemleri, sınıflar, built-in fonksiyonlar anlatıldı.
 
+[Hafta 5]() Açıklama eklenecek.
+
 #### Kesif Aktiviteleri
 
 [Kesif Aktivitesi 1:](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/kesif_aktivitesi_1) Excel kullanarak, kendi seçtiğimiz bir veri kümesi üzerinde, kendi hazırladığımız sorular ile veri hakkında bilgiler edinme, grafikler oluşturma.
@@ -27,6 +29,8 @@ Kocaeli Universitesi Bilgisayar Mühendisliği (BLM442) kodlu Büyük Veri Anali
 - [Proje 1:](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/kesif_aktivitesi_3/project_1) [PDF](https://github.com/snnclsr/buyuk_veri_analizi/blob/master/kesif_aktivitesi_3/project_1/project07.pdf) , [Notebook](https://github.com/snnclsr/buyuk_veri_analizi/blob/master/kesif_aktivitesi_3/project_1/project1.ipynb) -- Bu projenin amacı verilen txt dosyasını okuyup, kelimeleri ilk ve son harfi hariç karıştırmaya çalışmak. Uygulama ile ilgili dikkat edilmesi gereken birkaç uç durum vardı: ilk veya son harfin noktalama işareti olması durumunda, noktalama işaretleri ve sondan önceki veya baştan sonraki harf aynı yerinde kalmalı.
 
 - [Proje 2:](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/kesif_aktivitesi_3/project_2) [PDF](https://github.com/snnclsr/buyuk_veri_analizi/blob/master/kesif_aktivitesi_3/project_2/project06.pdf) , [Notebook](https://github.com/snnclsr/buyuk_veri_analizi/blob/master/kesif_aktivitesi_3/project_2/project2.ipynb) -- Bu projenin amacı verilen txt dosyaları üzerinde, istenilen aramayı gerçekleştirme. Arama sonucunda, aranılan metin hangi dosyada ise o dosya isminin altında sonucun bulunduğu satır gösterildi.
+
+[Kesif Aktivitesi 4:]() Açıklama eklenecek.
 
 #### Geri Bildirim Aktiviteleri
 
