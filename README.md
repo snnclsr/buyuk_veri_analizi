@@ -34,5 +34,5 @@ Kocaeli Universitesi Bilgisayar Mühendisliği (BLM442) kodlu Büyük Veri Anali
 
 #### Geri Bildirim Aktiviteleri
 
-**Geri Bildirim Aktivitesi 1:** Açıklama eklenecek.
+[Geri Bildirim Aktivitesi 1:](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/geri_bildirim_aktivitesi_1) Kendi seçtiğimiz bir veri kümesi üzerinde **Tableu** kullanarak görselleştirmeler yapma. Biz analiz için [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews) veri kümesini seçtik. 
 
