@@ -1,6 +1,6 @@
 ## Buyuk Veri Analizine Giriş ders notları, ödevleri ve projeleri
 
-Kocaeli Universitesi Bilgisayar Mühendisliği (BLM442) kodlu Büyük Veri Analizine Giriş dersinde paylaşılan ders notları, tamamlanan ödevler ve projeleri bu repoda bulabilirsiniz.
+Kocaeli Universitesi Bilgisayar Mühendisliği (BLM442) kodlu [Dr. Süleyman Eken](https://suleymaneken.github.io/) tarafından verilen Büyük Veri Analizine Giriş dersinde paylaşılan ders notları, tamamlanan ödevler ve projeleri bu repoda bulabilirsiniz.
 
 [Ders Notları](https://github.com/snnclsr/buyuk_veri_analizi#ders-notlar%C4%B1)
 [Kesif Aktiviteleri](https://github.com/snnclsr/buyuk_veri_analizi#kesif-aktiviteleri)
@@ -16,7 +16,7 @@ Kocaeli Universitesi Bilgisayar Mühendisliği (BLM442) kodlu Büyük Veri Anali
 
 [Hafta 4](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/week4): Python programlama diline giriş yapıldı. Veri tipleri, koşullu ifadeler, döngüler, fonksiyonlar, modüller, veri yapıları, dosya işlemleri, sınıflar, built-in fonksiyonlar anlatıldı.
 
-[Hafta 5]() Açıklama eklenecek.
+[Hafta 5](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/week5): Pandas kütüphanesi anlatıldı. Pandas veri yapıları, indeksleme, dilimleme(slicing), filtreleme, sıralama, özet fonksiyonları anlatıldı. Kayıp veriler ile nasıl ilgilenilmeli? Pandas'da kayıp verileri doldurmak için kullanılan fonksiyonlardan bahsedildi. Python'da veri görselleştirme için kullanılan kütüphaneler anlatıldı. Matplotlib, ggplot, seaborn, bokeh ve plotly anlatıldı ve görselleştirme fonksiyonları hakkında bilgiler verildi.
 
 #### Kesif Aktiviteleri
 
