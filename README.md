@@ -21,6 +21,8 @@ Kocaeli Universitesi Bilgisayar Mühendisliği (BLM442) kodlu [Dr. Süleyman Eke
 [Hafta 6:](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/week6) Lineer Cebir kavramları tekrar edildi. Skaler, vektör ve matris tanımları yapıldı. Vektör ve matris hesaplamaları anlatıldı. Birim, ters matrisler ve determinant kavramı anlatıldı. Lineer bağımlılık ve rank kavramı anlatıldı. Kare matrislerin tersi ve kare olmayan matrislerin sözde tersi (pseudoinverse) anlatıldı. NumPy dizileri, fonksiyonları ve broadcasting anlatıldı. SciPy'da lineer cebir işlemleri anlatıldı.  
 Olasılık teorisi tekrar edildi. Koşullu olasılık ve bağımsızlık anlatıldı. Rastgele değişkenler anlatıldı. Ayrık ve sürekli rastgele değişkenler anlatıldı. Cumulative Distribution Function (CDF) ve Probability Density Function (PDF) anlatıldı. Beklenen değer (expected value) ve varyans (variance) kavramları anlatıldı. Bayes teoremi anlatıldı. Gauss Dağılımı hakkında örnekler anlatıldı.
 
+[Hafta 7:] Açıklama eklenecek.
+
 #### Kesif Aktiviteleri
 
 [Kesif Aktivitesi 1:](https://github.com/snnclsr/buyuk_veri_analizi/tree/master/kesif_aktivitesi_1) Excel kullanarak, kendi seçtiğimiz bir veri kümesi üzerinde, kendi hazırladığımız sorular ile veri hakkında bilgiler edinme, grafikler oluşturma.
